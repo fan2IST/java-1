@@ -6,7 +6,6 @@ public class d3 {
         int b = 20;
         int retValue = sumInt(a, b);
         System.out.println("retValue =" + retValue);
-
     }
 
     public static int sumInt(int i, int j) {
