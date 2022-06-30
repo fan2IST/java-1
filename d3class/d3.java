@@ -5,7 +5,7 @@ public class d3 {
         int a = 10;
         int b = 20;
         int retValue = sumInt(a, b);
-        System.out.println("retValue =" + retValue);
+        System.out.println("retValue = " + retValue);
     }
 
     public static int sumInt(int i, int j) {
@@ -19,4 +19,5 @@ public class d3 {
         int z = x / y;
         return z;
     }
+
 }
