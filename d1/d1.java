@@ -1,7 +1,7 @@
 package d1;
 
 public class d1 {
-    public static void main(String[] args) {
+    public static void main(String[] arg) {
         System.out.println("测试");
         boolean flag = true;
         if (flag) {
