@@ -3,6 +3,34 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Launch d10",
+      "request": "launch",
+      "mainClass": "d10this3.d10",
+      "projectName": "java-1_cd4dffba"
+    },
+    {
+      "type": "java",
+      "name": "Launch d2",
+      "request": "launch",
+      "mainClass": "d2nextin.d2",
+      "projectName": "java-1_cd4dffba"
+    },
+    {
+      "type": "java",
+      "name": "Launch Product",
+      "request": "launch",
+      "mainClass": "d7ProductTest.Product",
+      "projectName": "java-1_cd4dffba"
+    },
+    {
+      "type": "java",
+      "name": "Launch d92",
+      "request": "launch",
+      "mainClass": "d9this2.d92",
+      "projectName": "java-1_cd4dffba"
+    },
+    {
+      "type": "java",
       "name": "Launch d9",
       "request": "launch",
       "mainClass": "d9this.d9",

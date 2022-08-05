@@ -20,5 +20,6 @@ public class d2 {
             System.out.println(day);
             day++;
         } while (day < 19);
+        s.close();
     }
 }
