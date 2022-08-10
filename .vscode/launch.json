@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Launch d12",
+      "request": "launch",
+      "mainClass": "d12array.d12",
+      "projectName": "java-1_cd4dffba"
+    },
+    {
+      "type": "java",
+      "name": "Launch d103",
+      "request": "launch",
+      "mainClass": "d10familyaccount.d103",
+      "projectName": "java-1_cd4dffba"
+    },
+    {
+      "type": "java",
       "name": "Launch d10",
       "request": "launch",
       "mainClass": "d10this3.d10",
