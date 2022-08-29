@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Launch d16",
+      "request": "launch",
+      "mainClass": "d16.d16",
+      "projectName": "java-1_cd4dffba"
+    },
+    {
+      "type": "java",
+      "name": "Launch d15",
+      "request": "launch",
+      "mainClass": "d15.d15",
+      "projectName": "java-1_cd4dffba"
+    },
+    {
+      "type": "java",
       "name": "Launch d14",
       "request": "launch",
       "mainClass": "d14.d14",
