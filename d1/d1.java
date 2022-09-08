@@ -9,5 +9,6 @@ public class d1 {
         } else {
             System.out.println("no thanks");
         }
+
     }
 }
