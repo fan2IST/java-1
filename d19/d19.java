@@ -19,5 +19,7 @@ public class d19 {
         System.out.println(list.peekLast());
         System.out.println(list.pop());// 将值取出
         System.out.println(list);
+        System.out.println(list.getFirst());
+        System.out.println(list.pop());// 全部取出，并非只拿值
     }
 }
