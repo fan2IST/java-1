@@ -2,6 +2,7 @@ package d23;
 
 import java.util.ArrayList;
 import java.util.Collections;
+import java.util.Objects;
 
 public class d23 {
     public static void main(String[] args) {
@@ -22,4 +23,27 @@ public class d23 {
         System.out.println(Collections.max(list));
 
     }
+
+}
+
+class class1 {
+    int a, b;
+    private int c, d;
+
+    @Override
+    public boolean equals(Object o) {
+        if (o == this)
+            return true;
+        if (!(o instanceof class1)) {
+            return false;
+        }
+        class1 class1 = (class1) o;
+        return a == class1.a && b == class1.b && c == class1.c && d == class1.d;
+    }
+
+    @Override
+    public int hashCode() {
+        return Objects.hash(a, b, c, d);
+    }
+
 }
