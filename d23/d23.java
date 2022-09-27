@@ -3,9 +3,10 @@ package d23;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Objects;
-
+@SuppressWarnings("unchecked")
 public class d23 {
     public static void main(String[] args) {
+        
         ArrayList list = new ArrayList<>();
         list.add("hello");
         list.add("world");

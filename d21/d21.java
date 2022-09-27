@@ -2,7 +2,7 @@ package d21;
 
 import java.util.Iterator;
 import java.util.TreeSet;
-
+@SuppressWarnings("unchecked")
 public class d21 {
     public static void main(String[] args) {
         TreeSet set = new TreeSet();
