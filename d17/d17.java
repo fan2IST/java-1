@@ -1,6 +1,4 @@
 package d17;
-
-import java.lang.reflect.Array;
 import java.util.ArrayList;
 
 public class d17 {

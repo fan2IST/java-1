@@ -1,10 +1,9 @@
 package d18;
 
-import java.lang.reflect.Array;
 import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
-
+@SuppressWarnings("unchecked")
 public class d18 {
     public static void main(String[] args) {
         ArrayList list = new ArrayList<>();

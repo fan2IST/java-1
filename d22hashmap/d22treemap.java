@@ -9,7 +9,7 @@
 package d22hashmap;
 
 import java.util.HashMap;
-
+@SuppressWarnings("unchecked")
 public class d22treemap {
     public static void main(String[] args) {
         HashMap map = new HashMap();

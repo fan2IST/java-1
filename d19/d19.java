@@ -1,7 +1,7 @@
 package d19;
 
 import java.util.LinkedList;
-
+@SuppressWarnings("unchecked")
 public class d19 {
     public static void main(String[] args) {
         LinkedList list = new LinkedList<>();

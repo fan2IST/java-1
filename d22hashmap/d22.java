@@ -4,7 +4,7 @@ import java.util.Collection;
 import java.util.HashMap;
 import java.util.Iterator;
 import java.util.Set;
-
+@SuppressWarnings("unchecked")
 public class d22 {
     public static void main(String[] args) {
         // MAP操纵一对元素,元素以key-value的形式进行储存
