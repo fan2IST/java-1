@@ -1,3 +1,11 @@
+/*
+ * @Author: fanIST fanISTREC2DX@outlook.com
+ * @Date: 2022-09-13 18:51:31
+ * @LastEditors: fanIST fanISTREC2DX@outlook.com
+ * @LastEditTime: 2022-09-30 08:38:10
+ * @FilePath: \java-1\d22hashmap\d22treemap.java
+ * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
+ */
 package d22hashmap;
 
 import java.util.HashMap;

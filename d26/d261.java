@@ -8,7 +8,6 @@ public class d261 {
             int b = (i - a * 100) / 10;
             int c = i - a * 100 - b * 10;
             int f = a * a * a + b * b * b + c * c * c;
-
             if (i == f) {
                 System.out.println(i);
             }
