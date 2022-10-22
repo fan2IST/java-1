@@ -6,6 +6,13 @@
       "name": "Launch d261",
       "request": "launch",
       "mainClass": "d26.d261",
+      "projectName": "java-1_f02aa600"
+    },
+    {
+      "type": "java",
+      "name": "Launch d261",
+      "request": "launch",
+      "mainClass": "d26.d261",
       "projectName": "java-1_cd4dffba"
     },
     {
