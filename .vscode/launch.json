@@ -1,12 +1,76 @@
 {
   "version": "0.2.0",
   "configurations": [
+
     {
       "type": "java",
-      "name": "Launch d1",
+      "name": "Launch d442",
       "request": "launch",
-      "mainClass": "d1.d1",
-      "projectName": "java-1_6fb60984"
+      "mainClass": "d44_2.d442",
+      "projectName": "java-1_cd4dffba"
+    },
+    {
+      "type": "java",
+      "name": "Launch d44",
+      "request": "launch",
+      "mainClass": "d44.d44",
+      "projectName": "java-1_cd4dffba"
+    },
+    {
+      "type": "java",
+      "name": "Launch d43",
+      "request": "launch",
+      "mainClass": "d43.d43",
+      "projectName": "java-1_cd4dffba"
+    },
+    {
+      "type": "java",
+      "name": "Launch d42",
+      "request": "launch",
+      "mainClass": "d42.d42",
+      "projectName": "java-1_cd4dffba"
+    },
+    {
+      "type": "java",
+      "name": "Launch d41",
+      "request": "launch",
+      "mainClass": "d41.d41",
+      "projectName": "java-1_cd4dffba"
+    },
+    {
+      "type": "java",
+      "name": "Launch d442",
+      "request": "launch",
+      "mainClass": "d44_2.d442",
+      "projectName": "java-1_cd4dffba"
+    },
+    {
+      "type": "java",
+      "name": "Launch d44",
+      "request": "launch",
+      "mainClass": "d44.d44",
+      "projectName": "java-1_cd4dffba"
+    },
+    {
+      "type": "java",
+      "name": "Launch d43",
+      "request": "launch",
+      "mainClass": "d43.d43",
+      "projectName": "java-1_cd4dffba"
+    },
+    {
+      "type": "java",
+      "name": "Launch d42",
+      "request": "launch",
+      "mainClass": "d42.d42",
+      "projectName": "java-1_cd4dffba"
+    },
+    {
+      "type": "java",
+      "name": "Launch d41",
+      "request": "launch",
+      "mainClass": "d41.d41",
+      "projectName": "java-1_cd4dffba"
     },
     {
       "type": "java",
