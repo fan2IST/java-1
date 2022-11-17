@@ -1,7 +1,13 @@
 {
   "version": "0.2.0",
   "configurations": [
-
+    {
+      "type": "java",
+      "name": "Launch d411",
+      "request": "launch",
+      "mainClass": "d45.d411",
+      "projectName": "java-1_6fb60984"
+    },
     {
       "type": "java",
       "name": "Launch d442",
