@@ -3,16 +3,56 @@
   "configurations": [
     {
       "type": "java",
+<<<<<<< HEAD
       "name": "Launch d46",
       "request": "launch",
       "mainClass": "d46.d46",
+=======
+      "name": "Launch d411",
+      "request": "launch",
+      "mainClass": "d45.d411",
+      "projectName": "java-1_6fb60984"
+    },
+    {
+      "type": "java",
+      "name": "Launch d442",
+      "request": "launch",
+      "mainClass": "d44_2.d442",
+>>>>>>> 341679cfd4fad94857dc1583db386b4cd026edab
       "projectName": "java-1_cd4dffba"
     },
     {
       "type": "java",
+<<<<<<< HEAD
       "name": "Launch d45",
       "request": "launch",
       "mainClass": "d45.d45",
+=======
+      "name": "Launch d44",
+      "request": "launch",
+      "mainClass": "d44.d44",
+      "projectName": "java-1_cd4dffba"
+    },
+    {
+      "type": "java",
+      "name": "Launch d43",
+      "request": "launch",
+      "mainClass": "d43.d43",
+      "projectName": "java-1_cd4dffba"
+    },
+    {
+      "type": "java",
+      "name": "Launch d42",
+      "request": "launch",
+      "mainClass": "d42.d42",
+      "projectName": "java-1_cd4dffba"
+    },
+    {
+      "type": "java",
+      "name": "Launch d41",
+      "request": "launch",
+      "mainClass": "d41.d41",
+>>>>>>> 341679cfd4fad94857dc1583db386b4cd026edab
       "projectName": "java-1_cd4dffba"
     },
     {
