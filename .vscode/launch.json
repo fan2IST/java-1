@@ -3,11 +3,6 @@
   "configurations": [
     {
       "type": "java",
-<<<<<<< HEAD
-      "name": "Launch d46",
-      "request": "launch",
-      "mainClass": "d46.d46",
-=======
       "name": "Launch d411",
       "request": "launch",
       "mainClass": "d45.d411",
@@ -89,6 +84,7 @@
       "request": "launch",
       "mainClass": "d41.d41",
       "projectName": "java-1_cd4dffba"
+>>>>>>> 341679cfd4fad94857dc1583db386b4cd026edab
     },
     {
       "type": "java",

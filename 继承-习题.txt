@@ -1,6 +1,0 @@
-1、定义一个Person类和它的子类Employee。Person类有姓名、地址、电话号码和电子邮箱，然后定义一个方法showMessage()用于输出人的信息。Employee类有办公室、工资和受聘日期成员变量，定义一个方法showMessage（）用于输出雇员的信息。定义测试类Test，在Test类main()中分别为Person和Employee创建对象并为其属性赋值，分别调用showMessage()来输出信息。
-
-2、创建和显示学生信息，具体要求如下：
-（1）定义Person类，在该类中定义成员变量name,sex,age,然后定义有参构造方法，初始化成员变量，最后定义成员方法toString返回name,age,sex的信息。
-（2）定义Student类继承Person类，在该类中增加成员变量no(学号)、scoreEn（英语成绩）、scoreMath(数学成绩）、scoreCh（语文成绩），然后增加成员方法aver()、max()、和min()分别返回三门功课的平均分、最高分、最低分，最后重写toString方法返回姓名、性别、 年龄、学号、平均分、最高分、最低分信息。
-（3）定义StudentTest类，在main()方法中实现创建和显示学生信息。
