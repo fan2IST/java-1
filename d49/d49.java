@@ -27,8 +27,6 @@ class Loan {
         double t = dScanner.nextDouble();
         if (t < 0) {
 
-            IllegalAccessException t = new IllegalAccessException();
-
         } else {
             System.out.println(t);
         }
