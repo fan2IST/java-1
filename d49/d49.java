@@ -2,7 +2,7 @@
  * @Author: fanIST fanISTREC2DX@outlook.com
  * @Date: 2022-11-21 11:25:08
  * @LastEditors: fan2IST fanISTREC2DX@outlook.com
- * @LastEditTime: 2022-11-21 18:05:43
+ * @LastEditTime: 2022-12-15 19:04:53
  * @FilePath: \java-1\d49\d49.java
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
  */
@@ -25,10 +25,10 @@ class Loan {
         Scanner dScanner = new Scanner(System.in);
         System.out.println("输入利率");
         double t = dScanner.nextDouble();
-        try {
+        if (t < 0) {
 
-        } catch (IllegalArgumentException e) {
-            // TODO: handle exception
+        } else {
+            System.out.println(t);
         }
 
     }
