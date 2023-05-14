@@ -1,3 +1,11 @@
+/*
+ * @Author: fan2IST fanISTREC2DX@outlook.com
+ * @Date: 2022-11-29 15:11:43
+ * @LastEditors: fan2IST fanISTREC2DX@outlook.com
+ * @LastEditTime: 2022-12-24 16:22:24
+ * @FilePath: \java-1\bluecup\t007.java
+ * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
+ */
 package bluecup;
 
 import java.util.*;
@@ -19,6 +27,7 @@ public class t007 {
         sList.clear(); // 清集合
         sList.addAll(hs); // 把Set集合中（去掉重复的元素）放到list中
         int sz = sList.size();
+
         for (int i = sz - 1; i >= 0; i--) {
             System.out.println(sList.get(i));
         }
